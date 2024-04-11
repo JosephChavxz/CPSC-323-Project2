@@ -10,6 +10,6 @@ How to run:
 
 1. 
 
-2. Go 
+2. 
 
-3. Run code
+3. 
