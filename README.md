@@ -8,8 +8,8 @@ Erick Alvarado Ealvarado007@csu.fullerton.edu
 
 How to run:
 
-1. Have Visual Studio Code installed with Python extensions
+1. 
 
-2. Go to File ---> click open file, open the main.py and input_scode.txt
+2. Go 
 
 3. Run code
