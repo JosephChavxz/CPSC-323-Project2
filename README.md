@@ -8,8 +8,8 @@ Erick Alvarado Ealvarado007@csu.fullerton.edu
 
 How to run:
 
-1. 
+1. Have Visual Studio Code installed with Python extensions
 
-2. 
+2. Go to File ---> click open file, open the parser.py
 
-3. 
+3. Run code
